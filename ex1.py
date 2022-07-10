@@ -86,6 +86,17 @@
 # variabile_tupla = ...
 # ^ Decommenta e implementa
 
+# Crea una variabile di tipo dizionario
+# Un dizionario associa due variabili a livello logico.
+# Un dizionario è composto da elementi, composti a loro volta da
+# una chiave ed un valore (key e value, rispettivamente).
+# Un dizionario è delimitato dalle parentesi graffe ( '{' e '}' ).
+# Ogni elemento viene separato, come nelle strutture dati viste in precedenza,
+# da una virgola con il successivo.
+
+# variabile_dizionario = ...
+# ^ Decommenta e implementa
+
 
 
 
@@ -97,3 +108,4 @@ assert type(variabile_stringa) == str
 assert type(variabile_float) == float
 assert type(variabile_lista) == list
 assert type(variabile_tupla) == tuple
+assert type(variabile_dizionario) == dict
